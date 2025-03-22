@@ -1,0 +1,17 @@
+How the program works?
+
+1- Get how many student in a class.
+2- Get how many subject.
+3- create an array of student.
+4- Get subjects' names.
+5- Get student's name.
+6- Get marks for each subject.
+7- Get the coeficients.
+8- Calculate the sum of marks. 
+9- Calculate the sum of coeficients.
+10- Check 
+	if {(TOTAL_MARKS / TOTAL_subject) >= 10}
+		display a msg(You passed)
+	otherwise
+		a msg(You did not passed
+	
